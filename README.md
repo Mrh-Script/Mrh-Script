@@ -38,9 +38,11 @@ I'm a student from Uttara University (Dept. of CSE) who loves technology. I enjo
 
 ### 🔹 Atomic Dictionary
 A simple Windows Forms app that shows information about chemical elements when you enter their name or symbol. Built with C# and .NET 8.0.
+Link : https://github.com/Mrh-Script/Atomic-Dictionary-Project-C-Sharp
 
 ### 🔹 NotePad
 A simple and clean Notepad app made with Java Swing. Supports basic text editing, file open/save, and undo/redo features.
+Link : https://github.com/Mrh-Script/NotePad-Project-Java
 
 ## 📈 GitHub Stats
 
