@@ -4,12 +4,12 @@
 
 ## 🚀 About Me
 
-I'm a dedicated student from Uttara University (Dept. of CSE) with a passion for technology and continuous learning. My interests span across software development, creative design, and problem-solving. I'm always eager to take on new challenges and collaborate on innovative projects.
+I'm a student from Uttara University (Dept. of CSE) who loves technology. I enjoy learning new things, creating software, designing, and solving problems. I'm always ready to take on new challenges and work on exciting projects with others.
 
 - 🔭 I’m currently working on enhancing my skills in software development.
 - 🌱 I’m currently learning advanced concepts in Java and exploring web development.
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
-- 💬 Ask me about programming in C, C++, C#, Java, or HTML.
+- 💬 Ask me about programming in HTML, C, C++, C#, or Java.
 - 📫 How to reach me: [mdriadhasan2003@gmail.com](mailto:mdriadhasan2003@gmail.com)
 - ⚡ Fun fact: I can solve a 3x3 Rubik's Cube in a minute!
 
@@ -37,14 +37,14 @@ I'm a dedicated student from Uttara University (Dept. of CSE) with a passion for
 ## 📂 Projects
 
 ### 🔹 Atomic Dictionary
-A dynamic dictionary application developed using C# and HTML, designed to provide quick and efficient word lookups.
+A simple Windows Forms app that shows information about chemical elements when you enter their name or symbol. Built with C# and .NET 8.0.
 
 ### 🔹 NotePad
-A simple yet effective text editor built with Java, featuring basic functionalities for everyday note-taking.
+A simple and clean Notepad app made with Java Swing. Supports basic text editing, file open/save, and undo/redo features.
 
 ## 📈 GitHub Stats
 
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riad&show_icons=true&theme=radical)
+![Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riad&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riad&layout=compact&theme=radical)
 
@@ -52,7 +52,7 @@ A simple yet effective text editor built with Java, featuring basic functionalit
 
 ## 📫 Connect with Me
 
-- 📧 Email: [karim@gmail.com](mailto:mdriadhasan2003@gmail.com)
+- 📧 Email: [mdriadhasan2003@gmail.com](mailto:mdriadhasan2003@gmail.com)
 - 💼 LinkedIn: [404mrh](https://www.linkedin.com/in/404mrh/))
 <!-- - 🌐 Personal Website: Coming Soon -->
 <!-- - 🐦 Twitter: Coming Soon -->
