@@ -70,7 +70,7 @@ Link : https://github.com/Mrh-Script/Counter-Machine-Project-Java
 
 - 📧 Email: [mdriadhasan2003@gmail.com](mailto:mdriadhasan2003@gmail.com)
 - 💼 LinkedIn: [404mrh](https://www.linkedin.com/in/404mrh/)
-- 📊 CodeForces :.[mrh_404](https://www.codeforces.com/profile/mrh_404)
+- 📊 CodeForces :.[mrh_404](https://codeforces.com/profile/mrh_404)
 <!-- - 🌐 Personal Website: Coming Soon -->
 <!-- - 🐦 Twitter: Coming Soon -->
 
