@@ -55,7 +55,7 @@ Link : https://github.com/Mrh-Script/TicTacToe-Game-Project-Java
 ### 🔹 Couting Machine
 A simple Counter Machine built with Java Swing. It allows users to increment, decrement, and reset a counter value. The application has an intuitive interface with easy-to-use buttons and keyboard shortcuts for quick actions.  
 Link : https://github.com/Mrh-Script/Counter-Machine-Project-Java
-
+  
 ## 📈 GitHub Stats
 
 ![Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riad&show_icons=true&theme=radical)
