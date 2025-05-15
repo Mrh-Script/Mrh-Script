@@ -44,6 +44,18 @@ Link : https://github.com/Mrh-Script/Atomic-Dictionary-Project-C-Sharp
 A simple and clean Notepad app made with Java Swing. Supports basic text editing, file open/save, and undo/redo features.  
 Link : https://github.com/Mrh-Script/NotePad-Project-Java
 
+### 🔹 Basic Calculator
+A basic calculator made with Java Swing that can perform addition, subtraction, multiplication, and division. It has a clean and colorful interface with easy-to-use buttons.  
+Link : https://github.com/Mrh-Script/Basic-Calculator-Project-Java
+
+### 🔹 TicTacToe Game
+A simple 2-player Tic-Tac-Toe game built with Java Swing. It features a clean interface, turn-based gameplay, win detection, and a restart option.  
+Link : https://github.com/Mrh-Script/TicTacToe-Game-Project-Java
+
+### 🔹 Couting Machine
+A simple Counter Machine built with Java Swing. It allows users to increment, decrement, and reset a counter value. The application has an intuitive interface with easy-to-use buttons and keyboard shortcuts for quick actions.  
+Link : https://github.com/Mrh-Script/Counter-Machine-Project-Java
+
 ## 📈 GitHub Stats
 
 ![Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riad&show_icons=true&theme=radical)
