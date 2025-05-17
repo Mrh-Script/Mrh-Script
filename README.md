@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/404mrh/" target="_blank">
+  <a href="https://www.linkedin.com/in/404mrh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank">
@@ -20,7 +20,7 @@
   <a href="mailto:mdriadhasan2003@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/01843479599">
+  <a href="https://wa.me/8801843479599">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
@@ -90,10 +90,13 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mrh-Script/Mrh-Script/output/snake.svg" alt="Snake animation" />
-
-###
