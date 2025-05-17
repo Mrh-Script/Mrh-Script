@@ -21,6 +21,7 @@
   <li>🎯 My goals: Get better at solving problems, join open-source projects, and become a great software developer</li>
   <li>🤝 I enjoy working with others and learning new tech stuff</li>
   <li>🎲 Fun fact: I can solve a 3x3 <strong>Rubik's Cube</strong> within 1 minute!</li>
+<li> 📈 I am interested in Analytical Research also. Currently working in a research.
 </ul>
 <br>
 
