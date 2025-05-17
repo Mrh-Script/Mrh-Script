@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center"> 📩 Contact Me </h3>
+<h2 align="center"> 📩 Contact Me </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/404mrh/" target="_blank">
