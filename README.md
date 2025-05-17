@@ -16,7 +16,7 @@
 </p>
 
 <ul>
-  <li>✨ I started coding by making funny bugs in my first program</li>
+  <li>✨ I started coding with SPL (C Language)</li>
   <li>📚 Right now, I'm learning more about <strong>Java</strong> and starting <strong>web development</strong></li>
   <li>🎯 My goals: Get better at solving problems, join open-source projects, and become a great software developer</li>
   <li>🤝 I enjoy working with others and learning new tech stuff</li>
