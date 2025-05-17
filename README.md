@@ -4,40 +4,7 @@
 
 ###
 
-<h2 align="center"> 📩 Contact Me </h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/404mrh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  </a>
-  <a href="https://www.hackerrank.com/mrh404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="mailto:mdriadhasan2003@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/8801843479599">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-  </a>
-</div>
-<br>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script&" />
-</div>
-<br>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there, I am Riad... 👋</h1>
 
 ###
 
@@ -95,6 +62,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
 </div>
 <hr>
+<br>
+
+###
+
+<h2 align="center"> 📩 Contact Me </h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/404mrh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://www.hackerrank.com/mrh404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+  </a>
+  <a href="mailto:mdriadhasan2003@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/8801843479599">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script&" />
+</div>
 <br>
 
 ###
