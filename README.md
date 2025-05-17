@@ -85,7 +85,7 @@
   <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a> 
-  <a href="//https://www.codeforces.com/mrh_404" target="_blank">
+  <a href="https://www.codeforces.com/mrh_404" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
 </a>
    <a href="https://www.hackerrank.com/mrh404" target="_blank">
