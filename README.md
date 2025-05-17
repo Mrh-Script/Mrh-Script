@@ -97,6 +97,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mrh-Script/Mrh-Script/output/snake.svg" alt="Snake animation" />
