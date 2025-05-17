@@ -16,11 +16,11 @@
 </p>
 
 <ul>
-  <li>✨ I started coding with SPL (C Language)</li>
+  <li>✨ I started coding with SPL (<strong>C Language </strong>)</li>
   <li>📚 Right now, I'm learning more about <strong>Java</strong> and starting <strong>web development</strong></li>
   <li>🎯 My goals: Get better at solving problems, join open-source projects, and become a great software developer</li>
   <li>🤝 I enjoy working with others and learning new tech stuff</li>
-  <li>🎲 Fun fact: I can solve a <strong>Rubik's Cube</strong> in less than 1 minute!</li>
+  <li>🎲 Fun fact: I can solve a 3x3 <strong>Rubik's Cube</strong> within 1 minute!</li>
 </ul>
 <br>
 
