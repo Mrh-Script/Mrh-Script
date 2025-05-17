@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+<br>
 
 ###
 
@@ -24,12 +25,14 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
+<br>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script&" />
 </div>
+<br>
 
 ###
 
@@ -51,6 +54,7 @@
   <li>🤝 I enjoy working with others and learning new tech stuff</li>
   <li>🎲 Fun fact: I can solve a <strong>Rubik's Cube</strong> in less than 1 minute!</li>
 </ul>
+<br>
 
 ###
 
@@ -67,6 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
+<br>
 
 ###
 
@@ -87,7 +92,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
 </div>
-
+<br>
 ###
 
 <h3 align="left">🔥 My GitHub Stats</h3>
@@ -96,4 +101,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
 </div>
+<br>
 
