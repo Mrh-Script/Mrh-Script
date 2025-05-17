@@ -50,7 +50,6 @@
   <li>🎯 My goals: Get better at solving problems, join open-source projects, and become a great software developer</li>
   <li>🤝 I enjoy working with others and learning new tech stuff</li>
   <li>🎲 Fun fact: I can solve a <strong>Rubik's Cube</strong> in less than 1 minute!</li>
-  <li>📫 Contact me: <a href="mailto:mdriadhasan2003@gmail.com">mdriadhasan2003@gmail.com</a></li>
 </ul>
 
 ###
