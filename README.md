@@ -71,7 +71,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ### 🎓 Academic  
 
-- **Data Structure and Algorithm**
+- **Data Structure and Algorithms**
+- **Electrical Circuits and Electronics**
 
 ---
 
