@@ -6,7 +6,8 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
+**__________________________________________**
 
 My name is **Md Riad Hasan**, and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
 
@@ -16,9 +17,10 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ---
 
-### 🛠 Skills
+### 🛠 Skills  
+**__________________________**
 
-#### Programming Languages
+#### Programming Languages  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
@@ -29,7 +31,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
-#### Front-End
+#### Front-End  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
@@ -38,7 +40,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ---
 
-### 🧰 Tools
+### 🧰 Tools  
+**__________________**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -54,17 +57,27 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Microsoft Office" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="40" alt="Word" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
 </div>
 
 ---
 
-### 🎓 Academic
+### 🎓 Academic  
+**__________________________**
 
 - **Data Structure and Algorithm**
 
 ---
 
-### 📩 Contact Me
+### 📩 Contact Me  
+**__________________________**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/404mrh/" target="_blank" rel="noopener noreferrer">
@@ -89,7 +102,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ---
 
-### 🔥 My GitHub Stats
+### 🔥 My GitHub Stats  
+**_______________________________**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
