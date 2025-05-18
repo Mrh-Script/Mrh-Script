@@ -67,6 +67,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
 </div>
+<br>
 
 ---
 
@@ -74,6 +75,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 - **Data Structure and Algorithm**
 - **Electrical Circuits and Electronics**
+
+<br>
 
 ---
 
@@ -99,6 +102,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
 </div>
+
+<br>
 
 ---
 
