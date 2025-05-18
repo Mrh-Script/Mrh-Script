@@ -13,7 +13,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 **Fun fact:** I can solve a **3x3 Rubik's Cube** in under one minute!
 
---
+---
 
 ### 🛠 Skills  
 
