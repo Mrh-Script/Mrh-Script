@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" height="170">
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Vegan Hello GIF by joonasjoonas">
 </div>
 
 
