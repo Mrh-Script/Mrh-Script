@@ -27,6 +27,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
+<br>
 
 - **Front-End**
 <div align="left">
@@ -34,6 +35,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
+<br>
 
 - **Operating Systems** 
 <div align="left">
