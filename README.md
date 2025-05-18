@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" height="170" alt="Wave Hello GIF by corgiyolk">
+  <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Vegan Hello GIF by joonasjoonas">
 </div>
 
 ###
