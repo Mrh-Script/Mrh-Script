@@ -11,20 +11,11 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">
-  My name is <strong>Md Riad Hasan</strong>, and I'm a <strong>Computer Science and Engineering student</strong> at <strong>Uttara University, Bangladesh</strong>.<br><br>
-  I enjoy creating software, solving problems, and learning new things in technology.
-</p>
+My name is Md Riad Hasan and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
 
-<ul>
-  <li>✨ I started coding with C (using SPL in my early days)</li>
-  <li>📚 Currently learning <strong>Java</strong> and starting my journey in <strong>web development</strong></li>
-  <li>🎯 My goals include improving my problem-solving skills, contributing to open-source projects, and becoming a skilled software developer</li>
-  <li>🤝 I enjoy collaborating with others and exploring new tech</li>
-  <li>🎲 Fun fact: I can solve a 3x3 <strong>Rubik's Cube</strong> in under 1 minute!</li>
-  <li>📈 I'm also interested in <strong>analytical research</strong> and currently involved in a research project</li>
-</ul>
-<br>
+My goals include sharpening my problem-solving skills, contributing to **open-source projects**, and becoming a skilled software developer. I enjoy working with others, staying curious about emerging tech, and I'm currently involved in an **analytical research project**.
+
+**Fun fact:** I can solve a **3x3 Rubik's Cube** in under one minute!
 
 ###
 
