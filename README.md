@@ -11,7 +11,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-My name is Md Riad Hasan and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
+My name is **Md Riad Hasan**, and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
 
 My goals include sharpening my problem-solving skills, contributing to **open-source projects**, and becoming a skilled software developer. I enjoy working with others, staying curious about emerging tech, and I'm currently involved in an **analytical research project**.
 
