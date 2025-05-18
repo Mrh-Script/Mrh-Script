@@ -11,17 +11,17 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  My name is <strong>Md Riad Hasan</strong>, and I'm a <strong>Computer Science & Engineering student</strong> from <strong>Uttara University, Bangladesh</strong>.<br><br>
+  My name is <strong>Md Riad Hasan</strong>, and I'm a <strong>Computer Science and Engineering student</strong> at <strong>Uttara University, Bangladesh</strong>.<br><br>
   I enjoy creating software, solving problems, and learning new things in technology.
 </p>
 
 <ul>
-  <li>✨ I started coding with SPL (<strong>C Language </strong>)</li>
-  <li>📚 Right now, I'm learning more about <strong>Java</strong> and starting <strong>web development</strong></li>
-  <li>🎯 My goals: Get better at solving problems, join open-source projects, and become a great software developer</li>
-  <li>🤝 I enjoy working with others and learning new tech stuff</li>
-  <li>🎲 Fun fact: I can solve a 3x3 <strong>Rubik's Cube</strong> within 1 minute!</li>
-<li> 📈 I am interested in Analytical Research also. Currently working in a research.
+  <li>✨ I started coding with C (using SPL in my early days)</li>
+  <li>📚 Currently learning <strong>Java</strong> and starting my journey in <strong>web development</strong></li>
+  <li>🎯 My goals include improving my problem-solving skills, contributing to open-source projects, and becoming a skilled software developer</li>
+  <li>🤝 I enjoy collaborating with others and exploring new tech</li>
+  <li>🎲 Fun fact: I can solve a 3x3 <strong>Rubik's Cube</strong> in under 1 minute!</li>
+  <li>📈 I'm also interested in <strong>analytical research</strong> and currently involved in a research project</li>
 </ul>
 <br>
 
@@ -67,28 +67,28 @@
 
 ###
 
-<h2 align="center"> 📩 Contact Me </h2>
+<h2 align="center">📩 Contact Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/404mrh/" target="_blank">
+  <a href="https://www.linkedin.com/in/404mrh/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:mdriadhasan2003@gmail.com">
+  <a href="mailto:mdriadhasan2003@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/8801843479599">
+  <a href="https://wa.me/8801843479599" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
-  <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank">
+  <a href="https://www.youtube.com/@BriefClipswithRiad" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a> 
-  <a href="https://codeforces.com/profile/mrh_404" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
-</a>
-   <a href="https://www.hackerrank.com/mrh404" target="_blank">
+  <a href="https://codeforces.com/profile/mrh_404" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+  </a>
+  <a href="https://www.hackerrank.com/mrh404" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
-<a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 </div>
@@ -97,7 +97,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" />
 </div>
 <br>
 
@@ -108,6 +108,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 <br>
-
