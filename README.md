@@ -1,10 +1,10 @@
+Here is the updated version of your GitHub README.md file without the horizontal lines and with line spaces after each section title:
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Hello GIF">
 </p>
 
 <h1 align="center">Hey there, I am Riad... 👋</h1>
-
----
 
 ### 👨‍💻 About Me  
 
@@ -14,11 +14,9 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 **Fun fact:** I can solve a **3x3 Rubik's Cube** in under one minute!
 
----
-
 ### 🛠 Skills  
 
- - **Programming Languages**  
+- **Programming Languages**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
@@ -29,21 +27,19 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
- - **Front-End** 
+- **Front-End**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
- - **Operating Systems**  
+- **Operating Systems**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
-
----
 
 ### 🧰 Tools  
 
@@ -67,14 +63,10 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
 </div>
 
----
-
 ### 🎓 Academic  
 
-- **Data Structure and Algorithms**
+- **Data Structure and Algorithms**  
 - **Electrical Circuits and Electronics**
-
----
 
 ### 📩 Contact Me  
 
@@ -99,8 +91,6 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   </a>
 </div>
 
----
-
 ### 🔥 My GitHub Stats  
 
 <div align="center">
@@ -112,3 +102,6 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" />
 </div>
+
+Let me know if you’d like to add a projects section or badges for achievements next.
+
