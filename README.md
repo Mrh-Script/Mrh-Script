@@ -4,7 +4,6 @@
 
 <h1 align="center">Hey there, I am Riad... 👋</h1>
 
----
 
 ### 👨‍💻 About Me  
 
