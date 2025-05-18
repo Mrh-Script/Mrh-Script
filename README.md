@@ -18,7 +18,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ### 🛠 Skills  
 
-#### Programming Languages  
+#### - Programming Languages  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
@@ -29,7 +29,7 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
-#### Front-End  
+#### - Front-End  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
