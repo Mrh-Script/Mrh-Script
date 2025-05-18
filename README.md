@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Hello GIF">
 </p>
 
-<h1 align="center">Hey there, I am Riad... 👋</h1>
+<h1 align="center">This is Riad... 👋</h1>
 
 
 ### 👨‍💻 About Me  
