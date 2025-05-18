@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Vegan Hello GIF by joonasjoonas">
+  <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" height="170" alt="Hello GIF">
 </p>
-
-
-###
 
 <h1 align="center">Hey there, I am Riad... 👋</h1>
 
-###
+---
 
-<h3 align="left">👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
 My name is **Md Riad Hasan**, and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
 
@@ -17,14 +14,12 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 **Fun fact:** I can solve a **3x3 Rubik's Cube** in under one minute!
 
-###
+---
 
-<h3 align="left">🛠 Languages</h3>
-<br>
+### 🛠 Skills
 
+#### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -33,12 +28,17 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
-<br>
 
-###
+#### Front-End
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</div>
 
-<h3 align="left">🧰 Tools</h3>
-<br>
+---
+
+### 🧰 Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -55,11 +55,16 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
 </div>
-<br>
 
-###
+---
 
-<h2 align="center">📩 Contact Me</h2>
+### 🎓 Academic
+
+- **Data Structure and Algorithm**
+
+---
+
+### 📩 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/404mrh/" target="_blank" rel="noopener noreferrer">
@@ -80,26 +85,18 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <a href="https://www.hackerrank.com/mrh404" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-  </a>
 </div>
-<br>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" />
-</div>
-<br>
-
-###
-
-<h3 align="left">🔥 My GitHub Stats</h3>
+### 🔥 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
-<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" />
+</div>
