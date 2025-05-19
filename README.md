@@ -49,6 +49,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 ### 🧰 Tools  
 
 <div align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/code-blocks.png" height="40" alt="Code::Blocks" /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
