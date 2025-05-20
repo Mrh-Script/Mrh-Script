@@ -73,17 +73,10 @@ My goals are to sharpen my problem-solving skills, contribute to **open-source p
 
 ---
 
-### 🎓 Academic Interests
+### 🎓 Academic Skills
 
-- **Data Structures and Algorithms** – Building a strong foundation in logic and performance optimization.
-- **Electrical Circuits and Electronics** – Exploring the principles behind computer hardware and embedded systems.
-
----
-
-### 🚀 Projects
-
-- 💻 **Java Address Book App** – A Swing-based GUI contact manager with add, delete, search, and export features.
-- 🌐 **Portfolio Website (Coming Soon)** – A personal site built with HTML, CSS, and JavaScript.
+- **Data Structures and Algorithms** 
+- **Electrical Circuits and Electronics** 
 
 ---
 
@@ -117,7 +110,7 @@ My goals are to sharpen my problem-solving skills, contribute to **open-source p
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 
 <br/>
