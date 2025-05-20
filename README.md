@@ -4,18 +4,19 @@
 
 <h1 align="center">This is Riad... 👋</h1>
 
+---
 
-### 👨‍💻 About Me  
+### 👨‍🎓 About Me  
 
-My name is **Md Riad Hasan**, and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I started my coding journey with **C** (using SPL in my early days), and I'm currently learning **Java** while stepping into **web development**.
+My name is **Md Riad Hasan**, and I'm a **Computer Science and Engineering student** at **Uttara University, Bangladesh**. I have a strong passion for software development, problem-solving, and exploring new technologies. I began my coding journey with **C** (using SPL in my early days), and I’m currently learning **Java** while starting my journey into **web development**.
 
-My goals include sharpening my problem-solving skills, contributing to **open-source projects**, and becoming a skilled software developer. I enjoy working with others, staying curious about emerging tech, and I'm currently involved in an **analytical research project**.
+My goals are to sharpen my problem-solving skills, contribute to **open-source projects**, and grow into a skilled software developer. I enjoy collaborating with others, staying curious about emerging technologies, and I'm currently engaged in an **analytical research project**.
 
 **Fun fact:** I can solve a **3x3 Rubik's Cube** in under one minute!
 
 ---
 
-### 🛠 Skills  
+### 🛠️ Skills  
 
 - **Programming Languages**
 <div align="left">
@@ -46,9 +47,9 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 
 ---
 
-### 🧰 Tools  
+### 🧰 Tools & Technologies  
 
-<div align="left">
+- **IDEs & Platforms**  
   <img src="https://img.icons8.com/fluency/48/000000/code-blocks.png" height="40" alt="Code::Blocks" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -58,7 +59,8 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img width="12" />
+
+- **Productivity & Design**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
@@ -68,17 +70,20 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
-</div>
-<br>
 
 ---
 
-### 🎓 Academic  
+### 🎓 Academic Interests
 
-- **Data Structure and Algorithms**
-- **Electrical Circuits and Electronics**
+- **Data Structures and Algorithms** – Building a strong foundation in logic and performance optimization.
+- **Electrical Circuits and Electronics** – Exploring the principles behind computer hardware and embedded systems.
 
-<br>
+---
+
+### 🚀 Projects
+
+- 💻 **Java Address Book App** – A Swing-based GUI contact manager with add, delete, search, and export features.
+- 🌐 **Portfolio Website (Coming Soon)** – A personal site built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -105,11 +110,9 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
   </a>
 </div>
 
-<br>
-
 ---
 
-### 🔥 My GitHub Stats  
+### 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
@@ -122,5 +125,3 @@ My goals include sharpening my problem-solving skills, contributing to **open-so
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" alt="Visitor badge"/>
 </div>
-
-
