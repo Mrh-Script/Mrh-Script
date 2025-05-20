@@ -110,7 +110,7 @@ My goals are to sharpen my problem-solving skills, contribute to **open-source p
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
 </div>
 
 <br/>
