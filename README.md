@@ -19,7 +19,7 @@ My goals are to sharpen my problem-solving skills, contribute to open-source pro
 ### 🌐 Portfolio  
 
 Check out my portfolio to check my works more efficiently:  
-👉 [Visit My Portfolio](mrh-portfolio.pages.dev/)
+👉 [Visit My Portfolio](https://mrh-portfolio.pages.dev/)
 
 ---
 
