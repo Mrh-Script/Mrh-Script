@@ -80,6 +80,13 @@ My goals are to sharpen my problem-solving skills, contribute to open-source pro
 
 ---
 
+### 🌐 Portfolio  
+
+Check out my portfolio:  
+👉 [Visit My Portfolio](https://www.mrh-portfolio.pages.dev)
+
+---
+
 ### 📩 Contact Me  
 
 <div align="center">
