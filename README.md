@@ -27,7 +27,7 @@ Check out my portfolio to check my works more efficiently:
 
 - **Programming Languages**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
@@ -132,14 +132,12 @@ Check out my portfolio to check my works more efficiently:
 
 ### 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com/?user=Mrh-Script&theme=radical&hide_border=false" height="200" alt="GitHub streak stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&count_private=true" height="190" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical" height="190" alt="Top languages" />
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mrh-Script&theme=radical" height="190" alt="GitHub streak stats" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" alt="Visitor badge"/>
-</div>
+</p>
