@@ -133,11 +133,6 @@ Check out my portfolio to check my works more efficiently:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Script&show_icons=true&theme=radical&count_private=true" height="190" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Script&layout=compact&theme=radical" height="190" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mrh-Script&theme=radical" height="190" alt="GitHub streak stats" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrh-Script.Mrh-Script" alt="Visitor badge"/>
 </p>
