@@ -70,10 +70,10 @@ Check out my portfolio to check my works more efficiently:
 
 ---
 
-
 ### 🧰 Tools & Technologies  
 
 - **IDEs & Platforms**  
+<div align="left">
   <img src="https://img.icons8.com/fluency/48/000000/code-blocks.png" height="40" alt="Code::Blocks" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -83,8 +83,15 @@ Check out my portfolio to check my works more efficiently:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+</div>
+<br>
 
 - **Productivity & Design**  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
@@ -94,6 +101,7 @@ Check out my portfolio to check my works more efficiently:
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" />
+</div>
 
 ---
 
@@ -103,7 +111,6 @@ Check out my portfolio to check my works more efficiently:
 - **Electrical Circuits and Electronics** 
 
 ---
-
 
 ### 📩 Contact Me  
 
