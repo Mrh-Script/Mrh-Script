@@ -87,7 +87,7 @@ Check out my portfolio to check my works more efficiently:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/cisco-packet-tracer.png" height="40" alt="Cisco Packet Tracer" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="Cisco Packet Tracer" />
 </div>
 <br>
 
