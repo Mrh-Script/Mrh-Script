@@ -109,7 +109,8 @@ Check out my portfolio to check my works more efficiently:
 ### 🎓 Academic Skills
 
 - **Data Structure and Algorithms** 
-- **Electrical Circuits and Electronics** 
+- **Electrical Circuits and Electronics**
+- **Networking**
 
 ---
 
