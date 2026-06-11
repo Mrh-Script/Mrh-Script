@@ -112,6 +112,7 @@ Check out my portfolio to check my works more efficiently:
 
 - **Data Structure and Algorithms** 
 - **Electrical Circuits and Electronics**
+- **Data Communication**
 - **Networking**
 
 ---
