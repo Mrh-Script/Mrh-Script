@@ -7,10 +7,12 @@
 
 ### 👨‍🎓 About Me  
 
-​My name is **Md Riad Hasan**, and I am a **Computer Science and Engineering** student at Uttara University, Bangladesh. I am currently focusing on **Machine Learning and Artificial Intelligence**, and exploring the Algorithms.  
-Alongside my AI journey, I have strong skills in **Data Structures and Algorithms** using C++ and Python, as well as **web development**. I also have plenty of hands-on experience building projects with **Java and C#**. I love collaborating on tech projects, working on analytical research, and contributing to open-source software.
+I am **Md Riad Hasan**, a **Computer Science and Engineering** student at Uttara University, Bangladesh. My current focus is on **Machine Learning and Artificial Intelligence**, alongside a continuous exploration of complex algorithms. I have built a strong foundation in **Data Structures and Algorithms** using C++ and Python, and I actively develop **web-based solutions**. 
+
+Beyond my focus on AI, I have hands-on experience building robust software applications using **Java and C#**. I thrive on collaborating on innovative tech projects, engaging in analytical research, and actively contributing to open-source software.
   
-**​Fun fact :** I can solve a 3x3 Rubik's Cube in under one minute!
+ **Fun Fact :** I can solve a **3x3 Rubik's Cube** in under one minute.
+
 
 ---
 
